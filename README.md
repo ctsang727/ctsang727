@@ -35,7 +35,7 @@
 
 <h2 align="left">😎 (For fun) About Me:</h2>
 
-- 🔭 I’m currently getting back into shape and playing a lot of volleyball
+- 🔭 I’m currently working on getting back into shape and playing a lot of volleyball
 - 🌱 I’m currently learning how to plan a vacation
 - 🤔 I’m looking for help with job searching tbh
 - 💬 Ask me about breakdance, volleyball, anime, gaming, NBA, pop culture, ANYTHING!
