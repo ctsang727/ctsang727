@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://gifs.com/gif/screensaver-aquarium-GR7W58" alt="Coder GIF" width="500">
 
 - 🔭 I’m currently working on more features for my projects
 - 🌱 I’m currently learning React/Redux 
