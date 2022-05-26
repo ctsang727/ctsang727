@@ -1,5 +1,9 @@
-## Hey there! 👋👋👋<p align='center'> <img align='center' src="https://github.com/ctsang727/ctsang727/blob/main/luffy-yo.gif" alt="luffy GIF" > </p>
-#### My name is Chris Tsang, full stack software engineer currently based in Connecticut. 
+
+<h1>Hey There!👋👋👋 </h1>
+<p> My name is Chris Tsang, I'm a full stack software engineer based in Connecticut. I've only recently started my software engineering journey but I'm loving every bit of it!</p>
+
+
+<p align='center'> <img align='center' src="https://github.com/ctsang727/ctsang727/blob/main/luffy-yo.gif" alt="luffy GIF" > </p>
 
 
 
@@ -23,7 +27,7 @@
 
 - 🔭 I’m currently working on more features for my projects (see pinned)
 - 🌱 I’m currently learning React/Redux 
-- 🤔 I’m looking for help with ... (building a fantasy baseball/basketball/football app)
+- 🤔 I’m looking for help with building a fantasy baseball/basketball/football app
 - 💬 Ask me about my experience with App Academy, what am I doing now, the future 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christopher-tsang-827b1b127/)
 - 😄 Pronouns: he/him/his
